@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('https://cdn.rawgit.com/evanslafahmi/evans/efaddb96/SF-Pro-Display-Regular.otf');
+  src: url('https://cdn.rawgit.com/evanslafahmi/evans/efaddb96/SF-Pro-Display-Regular.otf')  format('truetype');
+}
+
+/* Kode utk gunakan font (misal utk body)*/
+body {
+  font-family: 'MyWebFont', sans-serif;
+}
