@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'MyWebFont';
-  src: url('https://cdn.rawgit.com/evanslafahmi/evans/efaddb96/SF-Pro-Display-Regular.otf');
-  src: url('https://cdn.rawgit.com/evanslafahmi/evans/efaddb96/SF-Pro-Display-Regular.otf')  format('truetype');
+  src: url('https://rawgit.com/evanslafahmi/evans/master/font.css');
+  src: url('https://rawgit.com/evanslafahmi/evans/master/font.css')  format('opentype');
 }
 
 /* Kode utk gunakan font (misal utk body)*/
